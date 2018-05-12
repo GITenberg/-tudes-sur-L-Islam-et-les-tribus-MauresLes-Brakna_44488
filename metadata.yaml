@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42784'
     url: http://www.gutenberg.org/2009/agents/42784
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44488#-tudes-sur-L-Islam-et-les-tribus-MauresLes-Brakna
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2013-12-22'
 gutenberg_type: Text
