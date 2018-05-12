@@ -1,0 +1,28 @@
+_repo: -tudes-sur-L-Islam-et-les-tribus-MauresLes-Brakna_44488
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44488-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marty, Paul
+    birthdate: 1882
+    deathdate: 1938
+    gutenberg_agent_id: '42784'
+    url: http://www.gutenberg.org/2009/agents/42784
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2013-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44488'
+  lccn: '67052345'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brakna'
+- !lcc 'DT'
+title: 'Études sur l''Islam et les tribus Maures: Les Brakna'
+url: http://www.gutenberg.org/ebooks/44488
